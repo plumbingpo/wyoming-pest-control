@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wyomingpestcontrolco.com/sitemap.xml
